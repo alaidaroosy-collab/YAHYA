@@ -1,0 +1,8 @@
+{
+  "name": "Grade 3 Interactive Science - منهج العلوم التفاعلي",
+  "description": "منصة تعليمية تفاعلية تفاعلية شاملة لكتاب Cambridge Primary Science Learner's Book 3: قراءة رقمية مع تقليب صفحات الكتاب وتتبع صوتي هادئ، نافذة هل تعلم للحقائق العلمية، ومجسمات ومحاكاة علمية، مع نظام أوسمة ومكافآت رقمية تشجيعية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
